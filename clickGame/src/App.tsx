@@ -1,10 +1,10 @@
 import React from 'react';
-import TF from './components/TextField';
+import CG from './components/ClickGame';
 
 function App() {
   return (
     <div>
-      <TF />
+      <CG />
     </div>
   );
 }
