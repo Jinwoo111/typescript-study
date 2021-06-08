@@ -1,3 +1,4 @@
+// 제네릭은 한가지 타입보다 여러 가지 타입에서 동작하는 컴포넌트를 생성하는데 사용
 function thisIsGeneric<T>(arg: T): T {
   return arg;
 }
